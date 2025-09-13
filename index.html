@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Webpage 🌍</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I’m learning how to build websites using GitHub Pages. This is my first site 🎉</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>🌟 My first webpage</li>
+      <li>📘 Learning C++ & DSA</li>
+      <li>⚡ Exploring electronics</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me at: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 My Website | Made with ❤️ using GitHub Pages</p>
+  </footer>
+</body>
+</html>
