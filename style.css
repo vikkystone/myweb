@@ -36,6 +36,14 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* Glow effect for specific nav links */
+nav a.glow {
+  text-shadow: 0 0 5px #fff, 
+               0 0 10px #4CAF50, 
+               0 0 20px #4CAF50, 
+               0 0 40px #4CAF50;
+}
+
 /* Sections */
 section {
   padding: 40px;
